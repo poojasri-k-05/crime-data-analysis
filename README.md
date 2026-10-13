@@ -1,5 +1,6 @@
-
 # Crime Data Analysis Dashboard
+
+🌐 **Live Website:** [Open Crime Data Analysis Dashboard](https://crime-data-analysis-m7qtb5hbne8yvcqddbcaoy.streamlit.app/)
 
 An interactive crime analysis website built using Python.
 
@@ -20,13 +21,19 @@ An interactive crime analysis website built using Python.
 - CSV download
 
 ## How to Run
+
 Install the dependencies:
 
+```bash
 pip install -r requirements.txt
+```
 
 Run the application:
 
+```bash
 streamlit run app.py
+```
 
 ## Dataset
+
 This project uses 20 sample crime records for academic demonstration.
